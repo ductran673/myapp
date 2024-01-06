@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217903768052",
+    "project_id": "myapp-111ad",
+    "storage_bucket": "myapp-111ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217903768052:android:cbf65f22ef2ca59b0b99a1",
+        "android_client_info": {
+          "package_name": "com.codewithduc.myapp.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrn2pc10OpUD8YWOmv421QpbXZv3hfYEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
